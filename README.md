@@ -1,5 +1,5 @@
 # Projet-TP-analyse
-  * Notre Projet est une tentative pour comprendre et facilite la résolution du l'equations linéaires. 
+  * Ce projet represente une tentative peremttant de comprendre et faciliter la résolution des systémes linéaires. 
 ![Demo_projet](https://user-images.githubusercontent.com/57879341/103366327-a2c71900-4ac2-11eb-906a-6401b3320965.gif)
 
 ## TO-DO
